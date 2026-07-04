@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maharshi Paul</h1>
 <h3 align="center">A passionate AI enthusiast and developer from India</h3>
 
-- 📫 How to reach me **[maharshipaul661@gmail.com]**
+- 📫 How to reach me **maharshipaul661@gmail.com**
   
 - 🏫 Pursuing CSE from **Jaypee Institute of Information Technology**
 
