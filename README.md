@@ -1,29 +1,39 @@
 <h1 align="center">Hi 👋, I'm Maharshi Paul</h1>
+<h3 align="center">A passionate AI enthusiast and developer from India</h3>
+
+- 📫 How to reach me **[maharshipaul661@gmail.com]**
+  
+- 🏫 Pursuing CSE from **Jaypee Institute of Information Technology**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://kaggle.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://instagram.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://medium.com/@maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maharshipaul" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharshipaul" height="30" width="40" /></a>
+</p>
 
 <p align="center">
-  <b>B.Tech CSE Student at JIIT Noida</b><br>
-  AI & Machine Learning Enthusiast • Open Source Contributor
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Maharshi-Paul&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
----
+### :zap: Recent Activity
 
-- 📫 **Email:** maharshipaul661@gmail.com
-- 🎓 **Studying:** B.Tech in Computer Science & Engineering, JIIT Noida
-- 🌱 **Currently Learning:** Data Structures & Algorithms, AI/ML, Full-Stack Development
-- 🔬 **ORCID:** https://orcid.org/0009-0005-4547-4423
+<!--START_SECTION:activity-->
+<!-- Your GitHub Action will automatically inject your recent activity here -->
+<!--END_SECTION:activity-->
 
-## Connect with Me
+<br/>
 
-<p align="left">
-<a href="https://linkedin.com/in/maharshi-paul-576641376" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/Maharshi-Paul">
+    <img src="https://github-readme-stats-lovat-pi-50.vercel.app/api?username=Maharshi-Paul&show_icons=true&theme=tokyonight&hide_border=true" alt="Maharshi Paul GitHub Stats" />
+  </a>
+  <a href="https://github.com/Maharshi-Paul">
+    <img src="https://github-readme-stats-lovat-pi-50.vercel.app/api/top-langs/?username=Maharshi-Paul&layout=compact&theme=tokyonight&hide_border=true" alt="Maharshi Paul Top Languages" />
+  </a>
 </p>
-
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Maharshi-Paul&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-readme-stats-lovat-pi-50.vercel.app/api?username=Maharshi-Paul&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Maharshi-Paul)
-
-[![Top Languages](https://github-readme-stats-lovat-pi-50.vercel.app/api/top-langs/?username=Maharshi-Paul&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Maharshi-Paul)
