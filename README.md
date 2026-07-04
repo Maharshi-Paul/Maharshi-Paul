@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maharshi Paul</h1>
-<h3 align="center">2nd Year B.Tech CSE Student at JIIT Noida | Aspiring Software Engineer | AI & Defense Tech Enthusiast</h3>
+<h3 align="center">2nd Year B.Tech CSE Student at JIIT Noida | AI & Machine Learning Enthusiast | Open Source Contributor</h3>
 
 - 🎓 Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Jaypee Institute of Information Technology (JIIT), Noida**
 - 🌱 Currently learning **Data Structures & Algorithms, AI/ML, System Design, and Full-Stack Development**
