@@ -1,33 +1,46 @@
-<h1 align="center">Hi 👋, I'm Bikram Ghuku</h1>
-<h3 align="center">A passionate Web developer and a AI enthusiast from India</h3>
+<h1 align="center">Hi 👋, I'm Maharshi Paul</h1>
+<h3 align="center">2nd Year B.Tech CSE Student at JIIT Noida | Aspiring Software Engineer | AI & Defense Tech Enthusiast</h3>
 
-- 📫 How to reach me **bikramghuku05@gmail.com**
-  
-- 🏫 Pursuing CSE from **Indian Institute of Technology, Kharagpur**
+- 🎓 Pursuing **B.Tech in Computer Science & Engineering (CSE)** at **Jaypee Institute of Information Technology (JIIT), Noida**
+- 🌱 Currently learning **Data Structures & Algorithms, AI/ML, System Design, and Full-Stack Development**
+- 💻 Interested in **Open Source, Competitive Programming, Artificial Intelligence, and Defense Technology**
+- 🚀 Building projects using **C, C++, Python, MySQL, Tkinter, Git & GitHub**
+- 📫 Reach me at **maharshipaul661@gmail.com**
+- 🔬 ORCID: **0009-0005-4547-4423**
+- ⚡ Fun fact: I enjoy solving coding challenges and building practical software projects.
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://dev.to/bikram-ghuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bikram-ghuku" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bikram-ghuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram-ghuku" height="30" width="40" /></a>
-<a href="https://kaggle.com/bikramghuku05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="bikramghuku05" height="30" width="40" /></a>
-<a href="https://instagram.com/bikramghuku05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikramghuku05" height="30" width="40" /></a>
-<a href="https://medium.com/@bikramghuku05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bikramghuku05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ghukubikram05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghukubikram05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bikramghuku05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikramghuku05" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/bikramghuku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bikramghuku" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maharshi-paul-576641376" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
 </p>
 
+<h3 align="left">Languages & Tools:</h3>
+
+<p align="left">
+<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+</p>
+
+<h3 align="left">GitHub Stats:</h3>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bikram-ghuku&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Maharshi-Paul&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</a>
 </p>
 
-### :zap: Recent Activity
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Maharshi-Paul&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/metakgp/maintos/pull/23) in [metakgp/maintos](https://github.com/metakgp/maintos)
-2. 💪 Opened PR [#68](https://github.com/OneBusAway/waystation/pull/68) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
-3. 🗣 Commented on [#67](https://github.com/OneBusAway/waystation/issues/67#issuecomment-4360936261) in [OneBusAway/waystation](https://github.com/OneBusAway/waystation)
-4. 🗣 Commented on [#349](https://github.com/OneBusAway/wayfinder/pull/349#issuecomment-3954297555) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-5. 💪 Opened PR [#349](https://github.com/OneBusAway/wayfinder/pull/349) in [OneBusAway/wayfinder](https://github.com/OneBusAway/wayfinder)
-<!--END_SECTION:activity-->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maharshi-Paul&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
