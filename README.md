@@ -9,12 +9,12 @@
 <p align="left">
 <a href="https://dev.to/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="maharshipaul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maharshipaul" height="30" width="40" /></a>
-<a href="https://kaggle.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maharshipaul" height="30" width="40" /></a>
-<a href="https://instagram.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/maharshi205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://instagram.com/maharshi.paul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maharshipaul" height="30" width="40" /></a>
 <a href="https://medium.com/@maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maharshipaul" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Maharshi_Paul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maharshipaul" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="maharshipaul" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/maharshipaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharshipaul" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Maharshi_205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="maharshipaul" height="30" width="40" /></a>
 </p>
 
 <p align="center">
