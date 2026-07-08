@@ -24,7 +24,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/codelif/jpoop-planner/pull/26#issuecomment-4888787340) in [codelif/jpoop-planner](https://github.com/codelif/jpoop-planner)
+1. 🗣 Commented on [#916](https://github.com/DenverCoder1/github-readme-streak-stats/issues/916#issuecomment-4910895867) in [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 <!--END_SECTION:activity-->
 
 <br/>
