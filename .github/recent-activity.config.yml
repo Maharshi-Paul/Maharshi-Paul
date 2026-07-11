@@ -1,4 +1,7 @@
 settings:
-  max_lines: 10
+  max_lines: 5
   readme_file: "./README.md"
   disabled_events: []
+  messages:
+    push: "⬆️ Pushed commit(s) to {REPO}"
+    pr_opened: "💪 Opened a PR in {REPO}"
