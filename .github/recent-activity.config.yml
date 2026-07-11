@@ -1,0 +1,4 @@
+settings:
+  max_lines: 10
+  readme_file: "./README.md"
+  disabled_events: []
