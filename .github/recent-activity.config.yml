@@ -1,5 +1,5 @@
 settings:
-  max_lines: 5
+  max_lines: 6
   readme_file: "./README.md"
   disabled_events:
     - "push"
@@ -7,7 +7,7 @@ settings:
     - "added_member"
     - "new_star"
   messages:
-    comments: "🗣️ Commented on {ID} in {REPO}"
+    comments: "💬 Commented on {ID} in {REPO}"
     issue_opened: "❗️ Opened issue {ID} in {REPO}"
     issue_closed: "✔️ Closed issue {ID} in {REPO}"
     pr_opened: "💪 Opened a PR in {REPO}"
