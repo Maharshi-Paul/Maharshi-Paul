@@ -1,5 +1,5 @@
 settings:
-  max_lines: 6
+  max_lines: 5
   readme_file: "./README.md"
   disabled_events:
     - "push"
