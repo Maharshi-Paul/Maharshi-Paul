@@ -37,11 +37,34 @@ Last Updated: Monday, July 20th, 2026, 6:47:19 PM
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Maharshi-Paul">
-    <img src="https://github-readme-stats-lovat-pi-50.vercel.app/api?username=Maharshi-Paul&show_icons=true&theme=tokyonight&hide_border=true" alt="Maharshi Paul GitHub Stats" />
-  </a>
-  <a href="https://github.com/Maharshi-Paul">
-    <img src="https://github-readme-stats-lovat-pi-50.vercel.app/api/top-langs/?username=Maharshi-Paul&layout=compact&theme=tokyonight&hide_border=true" alt="Maharshi Paul Top Languages" />
-  </a>
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Llama.cpp-000000?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6A0DAD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vector_DB-6A0DAD?style=for-the-badge" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
