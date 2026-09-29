@@ -28,11 +28,9 @@
 2. ⭐ Starred [guilyx/awesome-github-pages-portfolios](https://github.com/guilyx/awesome-github-pages-portfolios)<br>
 3. 🔱 Forked [Maharshi-Paul/redis](https://github.com/Maharshi-Paul/redis) from [redis/redis](https://github.com/redis/redis)<br>
 4. ❗️ Opened issue [#4](https://github.com/SaatvikChauhan/JIIT-Shelf/issues/4) in [SaatvikChauhan/JIIT-Shelf](https://github.com/SaatvikChauhan/JIIT-Shelf)<br>
-5. 🔱 Forked [Maharshi-Paul/OSdc-wa](https://github.com/Maharshi-Paul/OSdc-wa) from [Karvy-Singh/OSdc-wa](https://github.com/Karvy-Singh/OSdc-wa)<br>
-6. ⭐ Starred [Karvy-Singh/OSdc-wa](https://github.com/Karvy-Singh/OSdc-wa)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, September 29th, 2026, 5:06:54 PM
+Last Updated: Tuesday, September 29th, 2026, 9:27:30 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br/>
 
