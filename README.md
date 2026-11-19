@@ -24,14 +24,14 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#6](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-2. 💪 Opened PR [#5](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-3. 💪 Opened PR [#4](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-4. 💪 Opened PR [#3](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-5. ✌️ Released [v0.1](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg/releases/tag/v0.1) in [Maharshi-Paul/levelset-brain-tumor-seg](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg)<br>
-6. 💪 Opened PR [#2](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+1. ✌️ Released [v1.0.2](https://github.com/Maharshi-Paul/microjail/releases/tag/v1.0.2) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+2. 💪 Opened PR [#6](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+3. 💪 Opened PR [#5](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+4. 💪 Opened PR [#4](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+5. 💪 Opened PR [#3](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+6. ✌️ Released [v0.1](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg/releases/tag/v0.1) in [Maharshi-Paul/levelset-brain-tumor-seg](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, November 19th, 2026, 4:16:53 AM
+Last Updated: Thursday, November 19th, 2026, 5:13:23 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br/>
