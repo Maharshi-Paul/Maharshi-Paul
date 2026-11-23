@@ -24,14 +24,14 @@
 ### :zap: Recent Activity
 
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v1.0.2](https://github.com/Maharshi-Paul/microjail/releases/tag/v1.0.2) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-2. 💪 Opened PR [#6](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-3. 💪 Opened PR [#5](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-4. 💪 Opened PR [#4](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-5. 💪 Opened PR [#3](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
-6. ✌️ Released [v0.1](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg/releases/tag/v0.1) in [Maharshi-Paul/levelset-brain-tumor-seg](https://github.com/Maharshi-Paul/levelset-brain-tumor-seg)<br>
+1. ✌️ Released [v0.1](https://github.com/Maharshi-Paul/BiteBudget/releases/tag/v0.1) in [Maharshi-Paul/BiteBudget](https://github.com/Maharshi-Paul/BiteBudget)<br>
+2. ✌️ Released [v0.1](https://github.com/Maharshi-Paul/ClashGuard/releases/tag/v0.1) in [Maharshi-Paul/ClashGuard](https://github.com/Maharshi-Paul/ClashGuard)<br>
+3. ✌️ Released [v1.0.2](https://github.com/Maharshi-Paul/microjail/releases/tag/v1.0.2) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+4. 💪 Opened PR [#6](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+5. 💪 Opened PR [#5](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
+6. 💪 Opened PR [#4](undefined) in [Maharshi-Paul/microjail](https://github.com/Maharshi-Paul/microjail)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 23rd, 2026, 9:54:19 AM
+Last Updated: Monday, November 23rd, 2026, 9:46:20 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 <br/>
